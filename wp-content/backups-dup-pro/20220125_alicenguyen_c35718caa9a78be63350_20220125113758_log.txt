@@ -1,0 +1,66 @@
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2022-01-25 11:38:13
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	4.0.0
+WORDPRESS:	5.7.2
+PHP INFO:	7.4.20 | SAPI: litespeed
+SERVER:		LiteSpeed 
+ARCHITECTURE:	64-bit 
+CLIENT KICKOFF: off 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+RUN TYPE:	Manual
+MEMORY STACK:	18MB
+ARCHIVE ENGINE: Shell Zip
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP + CHUNKING (chunk size - 500 rows)
+
+TABLES: total: 41 | filtered:0 | create:41
+SCHEMA SIZE: [27590656]
+SQL CREATED: 20220125_alicenguyen_c35718caa9a78be63350_20220125113758_database.sql
+SQL FILE SIZE: 13.6MB
+SQL FILE TIME: 2022-01-25 11:38:14
+SQL RUNTIME: 1.192 sec.
+MEMORY STACK: 18MB
+
+********************************************************************************
+ARCHIVE  Type=ZIP Mode=Shell
+********************************************************************************
+ARCHIVE DIR:  /home/alice.ninjadona.com/public_html
+ARCHIVE FILE: 20220125_alicenguyen_c35718caa9a78be63350_20220125113758_archive.zip
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	129.38MB
+STATS:	Dirs 993 | Files 6,849 | Total 7,842
+COMPRESSED SIZE: 61.65MB
+ARCHIVE RUNTIME: 5.676 sec.
+MEMORY STACK: 20MB
+
+********************************************************************************
+STORAGE:
+********************************************************************************
+LOCAL: Default, /home/alice.ninjadona.com/public_html/wp-content/backups-dup-pro
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 13.6MB
+INSTALLER FILE: 77.54KB
+ARCHIVE FILE: 65.03MB 
+EXPECTED FILE/DIRECTORY COUNT: 7,842
+ACTUAL FILE/DIRECTORY COUNT: 7,845
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 8.199 sec.
+PEAK PHP MEMORY USED: 8MB
+DONE PROCESSING => 20220125_alicenguyen 2022-01-25 11:38:21
+

@@ -1,0 +1,380 @@
+{
+    "RPT": {
+        "ScanTime": "0.304 sec.",
+        "ScanFile": "20220125_alicenguyen_c35718caa9a78be63350_20220125113758_scan.json",
+        "ScanCreated": "2022-01-25 11:38:00",
+        "ScanPath": "\/home\/alice.ninjadona.com\/public_html\/wp-content\/backups-dup-pro\/tmp\/20220125_alicenguyen_c35718caa9a78be63350_20220125113758_scan.json"
+    },
+    "SRV": {
+        "Brand": {
+            "LogoAttachmentExists": false,
+            "LogoCount": 0,
+            "LogoFinded": 0,
+            "LogoImageExists": true,
+            "LogoImages": [],
+            "Name": "Default",
+            "Notes": "The default content used when a brand is not defined"
+        },
+        "HOST": [],
+        "PHP": {
+            "websrv": true,
+            "openbase": true,
+            "maxtime": true,
+            "openssl": true,
+            "mysqli": true,
+            "allowurlfopen": true,
+            "curlavailable": true,
+            "version": true,
+            "ALL": "Good"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ismuplus": true,
+            "ALL": "Good"
+        }
+    },
+    "ARC": {
+        "Size": "129.38MB",
+        "DirCount": "993",
+        "FileCount": "6,849",
+        "FullCount": "7,842",
+        "USize": 135666358,
+        "UDirCount": 993,
+        "UFileCount": 6849,
+        "UFullCount": 7842,
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "\/home\/alice.ninjadona.com\/public_html\/.opcache",
+            "\/home\/alice.ninjadona.com\/public_html\/.tmb",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/ai1wm-backups",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/backups-dup-lite",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/backups-dup-pro",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/backups-dup-pro",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/backupwordpress",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/bps-backup",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/cache",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/content\/cache",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/contents\/cache",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/infinitewp\/backups",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/managewp\/backups",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/old-cache",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/plugins\/really-simple-captcha\/tmp",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/plugins\/wordfence\/tmp",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/updraft",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/uploads\/aiowps_backups",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/uploads\/backup-guard",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/uploads\/backupbuddy_backups",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/uploads\/backupbuddy_temp",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/uploads\/ithemes-security\/backups",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/uploads\/mainwp\/backup",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/uploads\/pb_backupbuddy",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/uploads\/snapshots",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/uploads\/sucuri",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/uploads\/wp-clone",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/uploads\/wp_all_backup",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/uploads\/wpbackitup_backups",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/wfcache",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-content\/wishlist-backup",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            ".DS_Store",
+            "\/home\/alice.ninjadona.com\/public_html\/.htaccess",
+            "\/home\/alice.ninjadona.com\/public_html\/.user.ini",
+            "\/home\/alice.ninjadona.com\/public_html\/php.ini",
+            "\/home\/alice.ninjadona.com\/public_html\/web.config",
+            "\/home\/alice.ninjadona.com\/public_html\/wp-config.php",
+            "dbcache",
+            "debug_log",
+            "error_log",
+            "objectcache",
+            "pgcache",
+            "ws_ftp.log"
+        ],
+        "FilterExtsAll": [],
+        "FilteredCoreDirs": [],
+        "FilteredSites": [],
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "Big": "Good",
+            "AddonSites": "Good",
+            "UnreadableItems": "Good",
+            "showCreateFuncStatus": "Good",
+            "showCreateFunc": true,
+            "CanbeMigratePackage": true,
+            "MigratePackage": "Good",
+            "HasFilteredCoreFolders": false,
+            "HasFilteredSiteTables": false,
+            "HasFilteredSites": false,
+            "IsDBOnly": 0
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": []
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "Size": "Good",
+            "Rows": "Good"
+        },
+        "Size": "26.31MB",
+        "Rows": "14,250",
+        "TableCount": 41,
+        "TableList": {
+            "wp_actionscheduler_actions": {
+                "Case": 0,
+                "Rows": "29",
+                "Size": "144KB",
+                "USize": 147456
+            },
+            "wp_actionscheduler_claims": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_actionscheduler_groups": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_actionscheduler_logs": {
+                "Case": 0,
+                "Rows": "85",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_commentmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_comments": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "96KB",
+                "USize": 98304
+            },
+            "wp_duplicator_pro_entities": {
+                "Case": 0,
+                "Rows": "5",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_duplicator_pro_packages": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_options": {
+                "Case": 0,
+                "Rows": "233",
+                "Size": "2.06MB",
+                "USize": 2162688
+            },
+            "wp_postmeta": {
+                "Case": 0,
+                "Rows": "2,632",
+                "Size": "9.69MB",
+                "USize": 10158080
+            },
+            "wp_posts": {
+                "Case": 0,
+                "Rows": "865",
+                "Size": "10.66MB",
+                "USize": 11173888
+            },
+            "wp_term_relationships": {
+                "Case": 0,
+                "Rows": "605",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wp_term_taxonomy": {
+                "Case": 0,
+                "Rows": "144",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_termmeta": {
+                "Case": 0,
+                "Rows": "4",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_terms": {
+                "Case": 0,
+                "Rows": "139",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_usermeta": {
+                "Case": 0,
+                "Rows": "63",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_users": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wp_wfblockediplog": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_wfblocks7": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wp_wfconfig": {
+                "Case": 0,
+                "Rows": "241",
+                "Size": "480KB",
+                "USize": 491520
+            },
+            "wp_wfcrawlers": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_wffilechanges": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_wffilemods": {
+                "Case": 0,
+                "Rows": "4,319",
+                "Size": "1.52MB",
+                "USize": 1589248
+            },
+            "wp_wfhits": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wp_wfhoover": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_wfissues": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "wp_wfknownfilelist": {
+                "Case": 0,
+                "Rows": "4,699",
+                "Size": "448KB",
+                "USize": 458752
+            },
+            "wp_wflivetraffichuman": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_wflocs": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_wflogins": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_wfls_2fa_secrets": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wp_wfls_settings": {
+                "Case": 0,
+                "Rows": "17",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_wfnotifications": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_wfpendingissues": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "wp_wfreversecache": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_wfsnipcache": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wp_wfstatus": {
+                "Case": 0,
+                "Rows": "142",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wp_wftrafficrates": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_wpmailsmtp_debug_events": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wp_wpmailsmtp_tasks_meta": {
+                "Case": 0,
+                "Rows": "17",
+                "Size": "16KB",
+                "USize": 16384
+            }
+        }
+    },
+    "Status": 1
+}
